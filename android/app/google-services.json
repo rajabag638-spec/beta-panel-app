@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383011451626",
+    "firebase_url": "https://familytrackerapp-ef043-default-rtdb.firebaseio.com",
+    "project_id": "familytrackerapp-ef043",
+    "storage_bucket": "familytrackerapp-ef043.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383011451626:android:7f7898cdb8d19760419d93",
+        "android_client_info": {
+          "package_name": "com.raja.familytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383011451626-5sm2o8tjkmnfj6u88eip8d5skcp00pgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqx2zhyy6Cti4IBgBG81WRKVCfdpuHVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383011451626-5sm2o8tjkmnfj6u88eip8d5skcp00pgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
